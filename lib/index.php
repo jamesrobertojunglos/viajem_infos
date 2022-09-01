@@ -46,7 +46,7 @@
         </select>
         <br><br>
         <input id="bLimpar" type="reset" value="Limpar">&nbsp;|&nbsp;
-        <input id="bSalvar" name="bGravar" type="submit" value="Gravar">
+        <input id="bSalvar" name="bGravar" type="submit" value="Gravar">...
     </form>
 </body>
 <!-- Chamada Biblioteca JS do JQuery -->
